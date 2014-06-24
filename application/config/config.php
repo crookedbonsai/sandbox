@@ -14,7 +14,7 @@
 | path to your installation.
 |
 */
-$config['base_url']	= 'http://localhost/dev/Sandbox-Github/public/';
+$config['base_url']	= 'http://localhost/Sandbox-Github/';
 
 /*
 |--------------------------------------------------------------------------
@@ -26,7 +26,7 @@ $config['base_url']	= 'http://localhost/dev/Sandbox-Github/public/';
 | variable so that it is blank.
 |
 */
-$config['index_page'] = 'test.php';
+$config['index_page'] = 'index.php';
 
 /*
 |--------------------------------------------------------------------------
