@@ -2,6 +2,12 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group/>
+        <group>
+            <file>file:/C:/development/dev/Sandbox-Github/application/styles/styles.css</file>
+            <file>file:/C:/development/dev/Sandbox-Github/application/views/pages/player-config.php</file>
+            <file>file:/C:/development/dev/Sandbox-Github/application/controllers/player.php</file>
+            <file>file:/C:/development/dev/Sandbox-Github/application/views/pages/game-config.php</file>
+            <file>file:/C:/development/dev/Sandbox-Github/application/views/templates/header.php</file>
+        </group>
     </open-files>
 </project-private>

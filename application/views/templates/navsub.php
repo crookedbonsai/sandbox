@@ -7,13 +7,15 @@
  */
 ?>
 
-<html>
-	<ul>
-		<li>
-			<a href="/game-config">Create Game</a>
-		</li>
-		<li>
-			<a href="/player-config">Player Configuration</a>
-		</li>
-	</ul>
-</html>
+<div style= "float:left">
+	<html>
+		<ul>
+			<li>
+				<a href="http://localhost/dev/Sandbox-Github/index.php/game-config">Create Game</a>
+			</li>
+			<li>
+				<a href="http://localhost/dev/Sandbox-Github/index.php/player-config">Player Configuration</a>
+			</li>
+		</ul>
+	</html>
+</div>

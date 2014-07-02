@@ -7,7 +7,7 @@
  */
 ?>
 
-<html>
+<div class ="navmain">
 	<ul>
 		<li>
 			<a href="http://localhost/dev/Sandbox-Github/index.php">home</a>
@@ -16,4 +16,4 @@
 			<a href="http://localhost/dev/Sandbox-Github/index.php/setup">setup</a>
 		</li>
 	</ul>
-</html>
+</div>

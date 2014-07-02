@@ -1,7 +1,13 @@
+<?php
+	// include_once '../config/mahjong_config.php';
+?>
 <html>
 <head>
-	<title><?php echo $title ?> - CodeIgniter 2 Tutorial</title>
+	<link rel="stylesheet" type="text/css" href="../../styles/styles.css" />
+	<title><?php echo $title ?></title>
 </head>
 <body>
-	<h1>Mahjong Madness!!</h1>
+	<div class="divmain">
+		<div class="divmaincentre">
+			<h1>Mahjong Madness!!</h1>
 
